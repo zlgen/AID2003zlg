@@ -1,0 +1,23 @@
+作业
+1. 三合一
+2. 当天练习独立完成
+3. 画出下列代码内存图,说出终端显示结果
+    name_of_beijing, region = "北京", "市"
+    name_of_beijing_region = name_of_beijing + region
+    region = "省"
+    print(name_of_beijing_region)  # ?
+    del name_of_beijing
+    print(name_of_beijing_region)  # ?
+
+4. 收银台找零练习：
+    在终端中获取商品单价、购买的数量和支付金额。
+    计算应该找回多少钱。
+    公式：支付金额 - 单价 × 数量
+
+5. 根据工资计算个人社保缴纳费用
+    步骤：在终端中录入工资,根据公式计算,显示缴纳费用
+    公式：养老保险8% + 医疗保险2% + 3元 + 失业保险0.2% + 公积金12%
+
+6. 阅读
+    程序员的数学第一章：0的故事
+    Python编程从入门到实践：前两章
